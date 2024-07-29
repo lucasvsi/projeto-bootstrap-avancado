@@ -1,0 +1,29 @@
+h1 {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+#carousel-exemplo {
+    padding-bottom: 32px;
+}
+
+.row img {
+    margin-bottom: 16px;
+    max-width: 80%;
+}
+
+.row img {
+    margin-bottom: 16px;
+    width: 100%; /* Ajusta a largura para 100% do contêiner */
+    height: 200px; /* Define uma altura fixa */
+    object-fit: cover; /* Corta a imagem para caber na área definida */
+}
+
+.btn {
+    margin-bottom: 32px;
+}
+
+.post h4, .post h5, .post time, .post a {
+    display: block;
+    margin-bottom: 8px;
+}
